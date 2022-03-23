@@ -6,11 +6,11 @@
   "env": {
      "TG_BOT_TOKEN": {
       "description": "Your Bot token from @Botfather",
-      "value": ""
+      "value": "5092511287:AAFUfE-_ZCBezMUhrzSTiinMW52XRppKYr8"
     },
     "APP_ID": {
       "description": "Your API_ID from https://my.telegram.org/apps ",
-      "value": ""
+      "value": "1995654"
     },
     "WEBHOOK": {
       "description": "leaves it as anything",
@@ -18,11 +18,11 @@
     },
     "API_HASH": {
       "description": "Your API_HASH from https://my.telegram.org/apps",
-      "value": ""
+      "value": "91aa713a74d1bccb50cd1c03758316bf"
     },
     "AUTH_USERS": {
       "description": "Array to store users who are authorized to use the bot",
-      "value": "882718910"
+      "value": "860540443"
     }
    },
    "buildpacks": [
